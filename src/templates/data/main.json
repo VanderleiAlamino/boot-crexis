@@ -198,33 +198,163 @@
         },
         {
           "url": "projects/project_02.html",
-          "class": "graphic",
-          "image": "images/portfolio/port-1.jpg",
-          "alt": "Rodrigues",
+          "class": "savana",
+          "image": "images/portfolio/08.jpg",
+          "alt": "Lorem",
           "icon": "fa fa-camera-retro",
-          "icon-title": "Serviço",
-          "title": "Porta em Aço Inoxidável",
-          "tags": "Artística, Industrial"
+          "icon-title": "Lorem Ipsum",
+          "title": "Lorem Ipsum",
+          "tags": "lore, ipsum, dolor"
         },
         {
           "url": "projects/project_02.html",
-          "class": "graphic design photography",
-          "image": "images/portfolio/port-1.jpg",
-          "alt": "Rodrigues",
+          "class": "savana",
+          "image": "images/portfolio/09.jpg",
+          "alt": "Lorem",
           "icon": "fa fa-camera-retro",
-          "icon-title": "Serviço",
-          "title": "Porta em Aço Inoxidável",
-          "tags": "Artística, Industrial"
+          "icon-title": "Lorem Ipsum",
+          "title": "Lorem Ipsum",
+          "tags": "lore, ipsum, dolor"
         },
         {
           "url": "projects/project_02.html",
-          "class": "design photography",
-          "image": "images/portfolio/port-1.jpg",
-          "alt": "Rodrigues",
+          "class": "savana",
+          "image": "images/portfolio/10.jpg",
+          "alt": "Lorem",
           "icon": "fa fa-camera-retro",
-          "icon-title": "Serviço",
-          "title": "Porta em Aço Inoxidável",
-          "tags": "Artística, Industrial"
+          "icon-title": "Lorem Ipsum",
+          "title": "Lorem Ipsum",
+          "tags": "lore, ipsum, dolor"
+        },
+        {
+          "url": "projects/project_02.html",
+          "class": "savana",
+          "image": "images/portfolio/11.jpg",
+          "alt": "Lorem",
+          "icon": "fa fa-camera-retro",
+          "icon-title": "Lorem Ipsum",
+          "title": "Lorem Ipsum",
+          "tags": "lore, ipsum, dolor"
+        },
+        {
+          "url": "projects/project_02.html",
+          "class": "aves",
+          "image": "images/portfolio/12.jpg",
+          "alt": "Lorem",
+          "icon": "fa fa-camera-retro",
+          "icon-title": "Lorem Ipsum",
+          "title": "Lorem Ipsum",
+          "tags": "lore, ipsum, dolor"
+        },
+        {
+          "url": "projects/project_02.html",
+          "class": "marinha",
+          "image": "images/portfolio/13.jpg",
+          "alt": "Lorem",
+          "icon": "fa fa-camera-retro",
+          "icon-title": "Lorem Ipsum",
+          "title": "Lorem Ipsum",
+          "tags": "lore, ipsum, dolor"
+        },
+        {
+          "url": "projects/project_02.html",
+          "class": "marinha",
+          "image": "images/portfolio/14.jpg",
+          "alt": "Lorem",
+          "icon": "fa fa-camera-retro",
+          "icon-title": "Lorem Ipsum",
+          "title": "Lorem Ipsum",
+          "tags": "lore, ipsum, dolor"
+        },
+        {
+          "url": "projects/project_02.html",
+          "class": "marinha",
+          "image": "images/portfolio/15.jpg",
+          "alt": "Lorem",
+          "icon": "fa fa-camera-retro",
+          "icon-title": "Lorem Ipsum",
+          "title": "Lorem Ipsum",
+          "tags": "lore, ipsum, dolor"
+        },
+        {
+          "url": "projects/project_02.html",
+          "class": "marinha",
+          "image": "images/portfolio/16.jpg",
+          "alt": "Lorem",
+          "icon": "fa fa-camera-retro",
+          "icon-title": "Lorem Ipsum",
+          "title": "Lorem Ipsum",
+          "tags": "lore, ipsum, dolor"
+        },
+        {
+          "url": "projects/project_02.html",
+          "class": "marinha",
+          "image": "images/portfolio/16.jpg",
+          "alt": "Lorem",
+          "icon": "fa fa-camera-retro",
+          "icon-title": "Lorem Ipsum",
+          "title": "Lorem Ipsum",
+          "tags": "lore, ipsum, dolor"
+        },
+        {
+          "url": "projects/project_02.html",
+          "class": "marinha",
+          "image": "images/portfolio/17.jpg",
+          "alt": "Lorem",
+          "icon": "fa fa-camera-retro",
+          "icon-title": "Lorem Ipsum",
+          "title": "Lorem Ipsum",
+          "tags": "lore, ipsum, dolor"
+        },
+        {
+          "url": "projects/project_02.html",
+          "class": "savana",
+          "image": "images/portfolio/18.jpg",
+          "alt": "Lorem",
+          "icon": "fa fa-camera-retro",
+          "icon-title": "Lorem Ipsum",
+          "title": "Lorem Ipsum",
+          "tags": "lore, ipsum, dolor"
+        },
+        {
+          "url": "projects/project_02.html",
+          "class": "savana",
+          "image": "images/portfolio/19.jpg",
+          "alt": "Lorem",
+          "icon": "fa fa-camera-retro",
+          "icon-title": "Lorem Ipsum",
+          "title": "Lorem Ipsum",
+          "tags": "lore, ipsum, dolor"
+        },
+        {
+          "url": "projects/project_02.html",
+          "class": "savana",
+          "image": "images/portfolio/20.jpg",
+          "alt": "Lorem",
+          "icon": "fa fa-camera-retro",
+          "icon-title": "Lorem Ipsum",
+          "title": "Lorem Ipsum",
+          "tags": "lore, ipsum, dolor"
+        },
+        {
+          "url": "projects/project_02.html",
+          "class": "aves, marinha",
+          "image": "images/portfolio/21.jpg",
+          "alt": "Lorem",
+          "icon": "fa fa-camera-retro",
+          "icon-title": "Lorem Ipsum",
+          "title": "Lorem Ipsum",
+          "tags": "lore, ipsum, dolor"
+        },
+        {
+          "url": "projects/project_02.html",
+          "class": "aves",
+          "image": "images/portfolio/22.jpg",
+          "alt": "Lorem",
+          "icon": "fa fa-camera-retro",
+          "icon-title": "Lorem Ipsum",
+          "title": "Lorem Ipsum",
+          "tags": "lore, ipsum, dolor"
         }
       ]
     }
@@ -234,50 +364,78 @@
   [
     {
       "url": "projects/project_01.html",
-      "image": "images/portfolio/port-2.jpg",
-      "alt": "Rodrigues",
-      "title": "Trabalho realizado",
-      "description": "Use poucas palavras"
+      "image": "images/portfolio/featured01.jpg",
+      "alt": "Lorem",
+      "title": "Lorem ipsum",
+      "description": "Lorem ipsum dolor sit amet"
     },
     {
       "url": "projects/project_01.html",
-      "image": "images/portfolio/port-2.jpg",
-      "alt": "Rodrigues",
-      "title": "Trabalho realizado",
-      "description": "Use poucas palavras"
+      "image": "images/portfolio/featured02.jpg",
+      "alt": "Lorem",
+      "title": "Lorem ipsum",
+      "description": "Lorem ipsum dolor sit amet"
     },
     {
       "url": "projects/project_01.html",
-      "image": "images/portfolio/port-2.jpg",
-      "alt": "Rodrigues",
-      "title": "Trabalho realizado",
-      "description": "Use poucas palavras"
+      "image": "images/portfolio/featured03.jpg",
+      "alt": "Lorem",
+      "title": "Lorem ipsum",
+      "description": "Lorem ipsum dolor sit amet"
     },
     {
       "url": "projects/project_01.html",
-      "image": "images/portfolio/port-2.jpg",
-      "alt": "Rodrigues",
+      "image": "images/portfolio/featured04.jpg",
+      "alt": "Lorem",
       "title": "Trabalho realizado",
-      "description": "Use poucas palavras"
+      "description": "Lorem ipsum dolor sit amet"
     },
     {
       "url": "projects/project_01.html",
-      "image": "images/portfolio/port-2.jpg",
-      "alt": "Rodrigues",
-      "title": "Trabalho realizado",
-      "description": "Use poucas palavras"
+      "image": "images/portfolio/featured05.jpg",
+      "alt": "Lorem",
+      "title": "Lorem ipsum",
+      "description": "Lorem ipsum dolor sit amet"
     }
   ],
 
   "prices":
   [
     {
-      "title": "Nossos Preços",
-      "description": "Na área de Serralheria Artística desenvolvemos projetos buscando sempre atender o gosto do cliente, harmonizando a beleza, qualidade e muito atendo a segurança e funcionalidade de cada peça que fabricamos.",
+      "title": "Prices",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat nonproident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "services":
       [
         {
-          "title": "Artística",
+          "title": "Lorem Ipsum",
+          "value": "R$50",
+          "desc-value": "/peça",
+          "url": "#",
+          "button": "Saiba mais",
+          "list": 
+          [
+            {
+              "item": "lorem ipsum",
+              "class": "important"
+            },
+            {
+              "item": "lorem ipsum"
+            },
+            {
+              "item": "lorem ipsum",
+              "class": "important"
+            },
+            {
+              "item": "lorem ipsum",
+              "class": "important"
+            },
+            {
+              "item": "lorem ipsum"
+            }
+          ]
+        },
+        {
+          "title": "Lorem Ipsum",
           "value": "R$500",
           "desc-value": "/peça",
           "url": "#",
@@ -305,8 +463,8 @@
           ]
         },
         {
-          "title": "Industrial",
-          "value": "R$5000",
+          "title": "Lorem Ipsum",
+          "value": "R$ 50",
           "desc-value": "/peça",
           "url": "#",
           "button": "Saiba mais",
@@ -333,35 +491,7 @@
           ]
         },
         {
-          "title": "Portas de Aço",
-          "value": "R$ 500",
-          "desc-value": "/peça",
-          "url": "#",
-          "button": "Saiba mais",
-          "list": 
-          [
-            {
-              "item": "lorem ipsum",
-              "class": "important"
-            },
-            {
-              "item": "lorem ipsum"
-            },
-            {
-              "item": "lorem ipsum",
-              "class": "important"
-            },
-            {
-              "item": "lorem ipsum",
-              "class": "important"
-            },
-            {
-              "item": "lorem ipsum"
-            }
-          ]
-        },
-        {
-          "title": "Laminados",
+          "title": "Lorem Ipsum",
           "value": "R$ 200",
           "desc-value": "/peça",
           "url": "#",
@@ -395,37 +525,44 @@
   "clients":
   [
     {
-      "title": "O que os clientes dizem?",
-      "description": "Destacamos alguns de nossos clientes...",
+      "title": "Clients?",
+      "description": "Lorem ipsum dolor sit amet...",
       "testimonials":
       [
         {
-          "image": "images/clients/logo-01.jpg",
-          "alt": "Holcim",
-          "client": "Holcim",
-          "function": "Líder mundial em cimentos",
-          "description": ""
+          "image": "images/clients/01.jpg",
+          "alt": "Lorem",
+          "client": "Lorem",
+          "function": "Lorem ipsum",
+          "description": "Lorem ipsum dolor sit amet"
         },
         {
-          "image": "images/clients/logo-02.jpg",
-          "alt": "Cervejaria Petrópolis",
-          "client": "Cervejaria Petrópolis",
-          "function": "A segunda maior cervejaria do Brasil",
-          "description": ""
+          "image": "images/clients/02.jpg",
+          "alt": "Lorem",
+          "client": "Lorem",
+          "function": "Lorem ipsum",
+          "description": "Lorem ipsum dolor sit amet"
         },
         {
-          "image": "images/clients/logo-03.jpg",
-          "alt": "Votorantim Cimentos",
-          "client": "Votorantim Cimentos",
-          "function": "Uma das maiores empresas na indústria de materiais de construção do mundo,",
-          "description": ""
+          "image": "images/clients/03.jpg",
+          "alt": "Lorem",
+          "client": "Lorem",
+          "function": "Lorem ipsum",
+          "description": "Lorem ipsum dolor sit amet"
         },
         {
-          "image": "images/clients/logo-04.jpg",
-          "alt": "Dynapac",
-          "client": "Dynapac",
-          "function": "Referência quando o assunto é equipamento pesado",
-          "description": ""
+          "image": "images/clients/04.jpg",
+          "alt": "Lorem",
+          "client": "Lorem",
+          "function": "Lorem ipsum",
+          "description": "Lorem ipsum dolor sit amet"
+        },
+        {
+          "image": "images/clients/05.jpg",
+          "alt": "Lorem",
+          "client": "Lorem",
+          "function": "Lorem ipsum",
+          "description": "Lorem ipsum dolor sit amet"
         }
       ]
     }
