@@ -30,19 +30,27 @@
   "rotator":
   [
     {
-      "image": "images/background-iron-1.jpg",
+      "image": "images/banners/bg-01.jpg",
       "title": "Lorem",
       "layer1": "Seja bem vindo",
-      "layer2": "Rodrigues Soluções Industriais",
-      "layer3": "Beleza, elegância e qualidade no serviço",
+      "layer2": "Crexis",
+      "layer3": "Lorem Ipsum Dolor Sit Amet",
       "layer4": "Saiba mais"
     },
     {
-      "image": "images/background-iron-2.jpg",
+      "image": "images/banners/bg-02.jpg",
       "title": "Lorem",
       "layer1": "Seja bem vindo",
-      "layer2": "Rodrigues Soluções Industriais",
-      "layer3": "Beleza, elegância e qualidade no serviço",
+      "layer2": "Crexis",
+      "layer3": "Lorem Ipsum Dolor Sit Amet",
+      "layer4": "Saiba mais"
+    },
+    {
+      "image": "images/banners/bg-03.jpg",
+      "title": "Lorem",
+      "layer1": "Seja bem vindo",
+      "layer2": "Crexis",
+      "layer3": "Lorem Ipsum Dolor Sit Amet",
       "layer4": "Saiba mais"
     }
   ],
@@ -51,23 +59,23 @@
   [
     {
       "title-start": "Bem vindo a",
-      "title-color": "Rodrigues Soluções Industriais",
-      "subtitle": "Com centenas de obras concluidas, a Serralheria Rodrigues tem alcançado a satisfação de seus clientes, consolidando-se cada vez mais como uma empresa séria, que cumpre prazos e fornece o que promete, tanto na qualidade da matéria prima quanto no resultado final do trabalho.",
+      "title-color": "Crexis",
+      "subtitle": "",
       "featured":[
         {
           "icon": "fa fa-rocket",
-          "title": "Serralheria Artística",
-          "description": "Na área de Serralheria Artística desenvolvemos projetos buscando sempre atender o gosto do cliente, harmonizando a beleza, qualidade e muito atendo a segurança e funcionalidade de cada peça que fabricamos."
+          "title": "Lorem Ipsum",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
         },
         {
           "icon": "fa fa-briefcase",
-          "title": "Serralheria Industrial",
-          "description": "Na área de Serralheria Industrial prestamos serviços diversos, desde a fabricação de dispositivos, adequações, confecção e instalação de proteções."
+          "title": "Lorem Ipsum",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
         },
         {
           "icon": "fa fa-clock-o",
-          "title": "Colaboradores",
-          "description": "Os nossos colaboradores recebem treinamentos de capacitação para que atuem com total segurança e qualidade."
+          "title": "Lorem Ipsum",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
         },
         {
           "icon": "fa fa-cloud",
@@ -76,13 +84,13 @@
         },
         {
           "icon": "fa fa-leaf",
-          "title": "Portas de Aço",
-          "description": "Destacamos nossa atuação no segmento de produção de portas de aço galvanizada, fabricando laminas com a qualidade, sendo referência neste segmento."
+          "title": "Lorem Ipsum",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
         },
         {
           "icon": "fa fa-diamond",
-          "title": "Qualidade",
-          "description": "Tudo feito sob medida... até no bom gosto !!!"
+          "title": "Lorem Ipsum",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
         }
       ]
     }
@@ -91,7 +99,7 @@
   "portfolio":
   [
     {
-      "title": "Confira nossos Trabalhos",
+      "title": "Lorem Ipsum Dolor",
       "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodvtempor incididunt ut labore et dolore magna aliqua.",
       "sections":
       [
@@ -101,18 +109,18 @@
           "class": "cbp-filter-item-active cbp-filter-item"
         },
         {
-          "item": "Serralheria Artística",
-          "view": ".graphic",
+          "item": "Vida Marinha",
+          "view": ".marinha",
           "class": "cbp-filter-item"
         },
         {
-          "item": "Serralheria Industrial",
-          "view": ".design",
+          "item": "Savanas",
+          "view": ".savana",
           "class": "cbp-filter-item"
         },
         {
-          "item": "Fabrica de Portas de Aço",
-          "view": ".photography",
+          "item": "Aves",
+          "view": ".aves",
           "class": "cbp-filter-item"
         }
       ],
@@ -120,73 +128,73 @@
       [
         {
           "url": "projects/project_02.html",
-          "class": "graphic",
-          "image": "images/portfolio/port-1.jpg",
-          "alt": "Rodrigues",
+          "class": "marinha",
+          "image": "images/portfolio/01.jpg",
+          "alt": "Lorem",
           "icon": "fa fa-camera-retro",
-          "icon-title": "Serviço",
-          "title": "Porta em Aço Inoxidável",
-          "tags": "Artística, Industrial"
+          "icon-title": "Lorem Ipsum",
+          "title": "Lorem Ipsum",
+          "tags": "lore, ipsum, dolor"
         },
         {
           "url": "projects/project_02.html",
-          "class": "graphic design photography",
-          "image": "images/portfolio/port-1.jpg",
-          "alt": "Rodrigues",
+          "class": "marinha",
+          "image": "images/portfolio/02.jpg",
+          "alt": "Lorem",
           "icon": "fa fa-camera-retro",
-          "icon-title": "Serviço",
-          "title": "Porta em Aço Inoxidável",
-          "tags": "Artística, Industrial"
+          "icon-title": "Lorem Ipsum",
+          "title": "Lorem Ipsum",
+          "tags": "lore, ipsum, dolor"
         },
         {
           "url": "projects/project_02.html",
-          "class": "design photography",
-          "image": "images/portfolio/port-1.jpg",
-          "alt": "Rodrigues",
+          "class": "marinha",
+          "image": "images/portfolio/03.jpg",
+          "alt": "Lorem",
           "icon": "fa fa-camera-retro",
-          "icon-title": "Serviço",
-          "title": "Porta em Aço Inoxidável",
-          "tags": "Artística, Industrial"
+          "icon-title": "Lorem Ipsum",
+          "title": "Lorem Ipsum",
+          "tags": "lore, ipsum, dolor"
         },
         {
           "url": "projects/project_02.html",
-          "class": "graphic",
-          "image": "images/portfolio/port-1.jpg",
-          "alt": "Rodrigues",
+          "class": "aves",
+          "image": "images/portfolio/04.jpg",
+          "alt": "Lorem",
           "icon": "fa fa-camera-retro",
-          "icon-title": "Serviço",
-          "title": "Porta em Aço Inoxidável",
-          "tags": "Artística, Industrial"
+          "icon-title": "Lorem Ipsum",
+          "title": "Lorem Ipsum",
+          "tags": "lore, ipsum, dolor"
         },
         {
           "url": "projects/project_02.html",
-          "class": "design",
-          "image": "images/portfolio/port-1.jpg",
-          "alt": "Rodrigues",
+          "class": "aves",
+          "image": "images/portfolio/05.jpg",
+          "alt": "Lorem",
           "icon": "fa fa-camera-retro",
-          "icon-title": "Serviço",
-          "title": "Porta em Aço Inoxidável",
-          "tags": "Artística, Industrial"
+          "icon-title": "Lorem Ipsum",
+          "title": "Lorem Ipsum",
+          "tags": "lore, ipsum, dolor"
         },
         {
           "url": "projects/project_02.html",
-          "class": "graphic photography",
-          "image": "images/portfolio/port-1.jpg",
-          "alt": "Rodrigues",
+          "class": "aves",
+          "image": "images/portfolio/06.jpg",
+          "alt": "Lorem",
           "icon": "fa fa-camera-retro",
-          "icon-title": "Serviço",
-          "title": "Porta em Aço Inoxidável",
-          "tags": "Artística, Industrial"
+          "icon-title": "Lorem Ipsum",
+          "title": "Lorem Ipsum",
+          "tags": "lore, ipsum, dolor"
         },
         {
           "url": "projects/project_02.html",
-          "class": "photography",
-          "image": "images/portfolio/port-1.jpg",
-          "alt": "Rodrigues",
+          "class": "aves",
+          "image": "images/portfolio/07.jpg",
+          "alt": "Lorem",
           "icon": "fa fa-camera-retro",
-          "icon-title": "Serviço",
-          "title": "Porta em Aço Inoxidável",
-          "tags": "Artística, Industrial"
+          "icon-title": "Lorem Ipsum",
+          "title": "Lorem Ipsum",
+          "tags": "lore, ipsum, dolor"
         },
         {
           "url": "projects/project_02.html",
