@@ -1,0 +1,90 @@
+{{#if portfolio}}
+{{#each portfolio}}
+<!-- Portfolio Section -->
+<section id="portfolio" class="container 5-columns-margin">
+
+	<!-- Portfolio Inner -->
+	<div class="inner t-center animated" data-animation="fadeIn" data-animation-delay="100">
+
+		<!-- Header -->
+		<h2 class="header header-style-1 dark normal oswald uppercase">
+			{{title}}
+		</h2>
+		<!-- Header Text -->
+		<p class="light">
+			{{description}}
+		</p>
+
+	</div>
+	<!-- End Inner -->
+
+	<!-- Filters -->
+    {{#if sections}}
+	<div id="portfolio-filters" class="cbp-l-filters-alignCenter normal type2">
+        {{#each sections}}
+		<!-- Filter -->
+        <div data-filter="{{view}}" class="{{class}}">
+            {{item}}
+            <!-- Filter Counter -->
+            <div class="cbp-filter-counter"></div>
+        </div>
+        <!-- Filter -->        
+        {{/each}}
+	</div>
+	<!-- End Filters -->
+    {{/if}}
+
+    {{#if portfolio-itens}}
+    <!-- Portfolio Items -->	
+    <div id="portfolio-items" class="fullwidth type2">
+        {{#each portfolio-itens}}
+		<!-- Item -->
+       	<div class="cbp-item item {{class}}">
+       		<!-- Item Link -->
+       		<a href="{{url}}" class="cbp-caption ex-link">
+
+            	<!-- Item Image -->
+                <div class="cbp-caption-defaultWrap">
+                	<!-- Image Src -->
+                    <img src="{{image}}" alt="{{alt}}">
+
+                    <!-- Item Note -->
+	                 <div class="item_icon">
+	                 	<!-- Icon -->
+	                 	<p><i class="{{icon}}"></i></p>
+                    	<p>{{icon-title}}</p>
+                    </div>
+                     <!-- End Item Note -->
+                </div>
+                <!-- End Item Image -->
+
+                <!-- Item Details -->
+                <div class="cbp-caption-activeWrap">
+                	<!-- Centered Details -->
+                    <div class="center-details">
+                        <div class="details">
+                        	<!-- Item Name -->
+                            <h2 class="name ">
+                            	{{title}}
+                            </h2>
+                            <!-- Tags -->
+                            <p class="tags">
+                            	{{tags}}
+                            </p>
+                        </div>
+                    </div>
+                    <!-- End Center Details Div -->
+                </div>
+                <!-- End Item Details -->
+            </a>
+            <!-- End Item Link -->
+        </div>
+        <!-- End Item -->
+        {{/each}}
+	</div>
+	<!-- End Portfolio Items -->
+    {{/if}}
+</section>
+<!-- End Portfolio Section -->
+{{/each}}
+{{/if}}

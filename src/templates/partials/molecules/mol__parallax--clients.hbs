@@ -1,0 +1,51 @@
+{{#if clients}}
+{{#each clients}}
+<!-- Clients Section -->
+<section id="clients" class="background41 parallax6 xdark-bg">
+
+	<!-- Inner -->
+	<div class="inner t-center clearfix">
+		<!-- Header -->
+		<h1 class="header strip header-style-1 white oswald t-center uppercase animated" data-animation="fadeIn" data-animation-delay="100">
+			{{title}}
+		</h1>
+		<!-- Header Text -->
+		<p class="normal t-center antialiased animated" data-animation="fadeIn" data-animation-delay="100">
+			{{description}}
+		</p>
+
+		{{#if testimonials}}
+		<div class="boxes boxes-type-4 light box-carousel three-items clearfix animated" data-animation="fadeIn" data-animation-delay="500">
+			{{#each testimonials}}
+			<!-- Box -->
+			<div class="box white oswald antialiased normal">
+				<!-- Box Image -->
+				<div class="box-image fullwidth t-center normal">
+					<!-- Image -->
+					<a href="" class="changeable-image">
+						<img src="{{image}}" alt="{{alt}}">
+					</a>
+				</div>
+				<!-- End Box Icon -->
+				<!-- Box Header -->
+				<h4 class="box-header no-padding uppercase">
+					{{client}}
+				</h4>
+				<!-- Position -->
+				<h5 class="colored raleway">
+					{{function}}
+				</h5>
+				<!-- Box Description -->
+				<p class="no-padding no-margin raleway">
+					{{description}}
+				</p>
+			</div>
+			{{/each}}
+		</div>
+		{{/if}}
+	</div>
+	<!-- End Inner -->
+</section>
+<!-- End Clients -->
+{{/each}}
+{{/if}}

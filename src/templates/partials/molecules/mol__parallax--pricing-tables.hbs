@@ -1,0 +1,62 @@
+{{#if prices}}
+{{#each prices}}
+<!-- Pricing Tables -->
+<section id="pricing-tables" class="background40 parallax8">
+
+	<!-- Inner -->
+	<div class="inner t-center clearfix">
+		<!-- Header -->
+		<h1 class="header header-style-1 white oswald uppercase t-center animated" data-animation="fadeIn" data-animation-delay="100">
+			{{title}}
+		</h1>
+		<!-- Header Text -->
+		<p class="light t-center animated" data-animation="fadeIn" data-animation-delay="100">
+			{{description}}
+		</p>
+
+		{{#if services}}
+		<!-- Price Boxes -->
+		<div class="price_boxes t-center clearfix white">
+
+			{{#each services}}
+			<!-- Box -->
+			<div class="box animated" data-animation="fadeIn" data-animation-delay="400">
+				<!-- Header -->
+				<h2 class="head georgia">
+					{{title}}
+				</h2>
+				<!-- Price -->
+				<h1 class="price georgia colored ">
+					{{value}}<span class="raleway">{{desc-value}}</span>
+					
+				</h1>
+
+				{{#if list}}
+				<!-- Features List -->
+				<ul class="price_list light">
+					{{#each list}}
+					<li class="{{class}}">
+						{{item}}
+					</li>
+					{{/each}}
+				</ul>
+				<!-- End Features List -->
+				{{/if}}
+
+				<!-- Buy Now Button -->
+				<a href="{{url}}" class="price_button uppercase ">
+					{{button}}
+				</a>
+
+			</div>
+			<!-- End Box -->
+			{{/each}}			
+		</div>
+		<!-- End Boxes -->
+		{{/if}}
+	</div>
+	<!-- End Inner -->
+</section>
+<!-- End Pricing Tables Section -->
+{{/each}}
+{{/if}}
