@@ -10,21 +10,37 @@
       "url": "#about"
     },
     {
-      "item": "Trabalhos",
+      "item": "Works",
       "url": "#portfolio"
     },
     {
-      "item": "Clientes",
+      "item": "Clients",
       "url": "#clients"
     }, 
     {
-      "item": "Contato",
+      "item": "Contact",
       "url": "#contact"
     },
     {
-      "item": "Endereço",
+      "item": "Address",
       "url": "#map"
-    }         
+    },    
+    {
+      "item": "Team",
+      "url": "#team"
+    },    
+    {
+      "item": "Testimonials",
+      "url": "#testimonials"
+    },    
+    {
+      "item": "History",
+      "url": "#history"
+    },    
+    {
+      "item": "Facts",
+      "url": "#facts"
+    }
   ],
 
   "rotator":
@@ -525,7 +541,7 @@
   "clients":
   [
     {
-      "title": "Clients?",
+      "title": "Clients",
       "description": "Lorem ipsum dolor sit amet...",
       "testimonials":
       [
@@ -566,5 +582,174 @@
         }
       ]
     }
+  ],
+
+  "team":
+  [
+    {
+      "title": "Our Team",
+      "description": "Lorem ipsum dolor sit amet...",
+      "modal":
+      [
+        {
+          "id": "member1",
+          "name": "Lorem Ipsum",
+          "position": "Position",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+          "alt": "Lorem Ipsum",
+          "image": "images/team/01.jpg"
+        },
+        {
+          "id": "member2",
+          "name": "Lorem Ipsum",
+          "position": "Position",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+          "alt": "Lorem Ipsum",
+          "image": "images/team/02.jpg"
+        },
+        {
+          "id": "member3",
+          "name": "Lorem Ipsum",
+          "position": "Position",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+          "alt": "Lorem Ipsum",
+          "image": "images/team/03.jpg"
+        },
+        {
+          "id": "member4",
+          "name": "Lorem Ipsum",
+          "position": "Position",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+          "alt": "Lorem Ipsum",
+          "image": "images/team/04.jpg"
+        },
+        {
+          "id": "member5",
+          "name": "Lorem Ipsum",
+          "position": "Position",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+          "alt": "Lorem Ipsum",
+          "image": "images/team/05.jpg"
+        },
+        {
+          "id": "member6",
+          "name": "Lorem Ipsum",
+          "position": "Position",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+          "alt": "Lorem Ipsum",
+          "image": "images/team/06.jpg"
+        }        
+      ]
+    }
+  ],
+
+  "testimonials":
+  [
+    {
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "name": "Lorem Ipsum"
+    },
+    {
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "name": "Lorem Ipsum"
+    },
+    {
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "name": "Lorem Ipsum"
+    }    
+  ],
+
+  "history":
+  [
+    {
+      "title": "Lorem Ipsum Dolor",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "timeline":
+      [
+        {
+          "datetime": "04/12/2000",
+          "datadescription": "Lorem Ipsum",
+          "image": "images/timeline/01.jpg",
+          "alt": "Lorem Ipsum",
+          "dateresume": "04 de dezembro de 2000",
+          "access": "projects/timeline/04_12_2000.html",
+          "href": "projects/project_01.html"
+        },
+        {
+          "datetime": "04/12/2002",
+          "datadescription": "Lorem Ipsum",
+          "image": "images/timeline/02.jpg",
+          "alt": "Lorem Ipsum",
+          "dateresume": "04 de dezembro de 2002",
+          "access": "projects/timeline/04_12_2002.html",
+          "href": "projects/project_01.html"
+        },
+        {
+          "datetime": "04/12/2005",
+          "datadescription": "Lorem Ipsum",
+          "image": "images/timeline/03.jpg",
+          "alt": "Lorem Ipsum",
+          "dateresume": "04 de dezembro de 2005",
+          "access": "projects/timeline/04_12_2005.html",
+          "href": "projects/project_01.html"
+        },
+        {
+          "datetime": "04/12/2007",
+          "datadescription": "Lorem Ipsum",
+          "image": "images/timeline/04.jpg",
+          "alt": "Lorem Ipsum",
+          "dateresume": "04 de dezembro de 2007",
+          "access": "projects/timeline/04_12_2007.html",
+          "href": "projects/project_01.html"
+        },
+        {
+          "datetime": "04/12/2008",
+          "datadescription": "Lorem Ipsum",
+          "image": "images/timeline/05.jpg",
+          "alt": "Lorem Ipsum",
+          "dateresume": "04 de dezembro de 2008",
+          "access": "projects/timeline/04_12_2008.html",
+          "href": "projects/project_01.html"
+        },
+        {
+          "datetime": "04/12/2009",
+          "datadescription": "Lorem Ipsum",
+          "image": "images/timeline/06.jpg",
+          "alt": "Lorem Ipsum",
+          "dateresume": "04 de dezembro de 2009",
+          "access": "projects/timeline/04_12_2009.html",
+          "href": "projects/project_01.html"
+        },
+        {
+          "datetime": "04/12/2011",
+          "datadescription": "Lorem Ipsum",
+          "image": "images/timeline/07.jpg",
+          "alt": "Lorem Ipsum",
+          "dateresume": "04 de dezembro de 2011",
+          "access": "projects/timeline/04_12_2011.html",
+          "href": "projects/project_01.html"
+        }       
+      ]
+    }
+  ],
+
+  "facts":
+  [
+    {
+      "perc": "540",
+      "item": "Lorem Ipsum"
+    },
+    {
+      "perc": "5000",
+      "item": "Lorem Ipsum"
+    },
+    {
+      "perc": "72000",
+      "item": "Lorem Ipsum"
+    },
+    {
+      "perc": "40",
+      "item": "Lorem Ipsum"
+    }    
   ]
 }
