@@ -6,7 +6,7 @@
       "url": "#home"
     },
     {
-      "item": "Sobre",
+      "item": "About",
       "url": "#about"
     },
     {
@@ -35,11 +35,19 @@
     },    
     {
       "item": "History",
-      "url": "#history"
+      "url": "#timeline"
     },    
     {
       "item": "Facts",
       "url": "#facts"
+    },
+    {
+      "item": "Skills",
+      "url": "#skills"
+    },
+    {
+      "item": "Features mobile",
+      "url": "#features-mobile"
     }
   ],
 
@@ -673,7 +681,8 @@
           "alt": "Lorem Ipsum",
           "dateresume": "04 de dezembro de 2000",
           "access": "projects/timeline/04_12_2000.html",
-          "href": "projects/project_01.html"
+          "href": "projects/project_01.html",
+          "class": "item_open"
         },
         {
           "datetime": "04/12/2002",
@@ -682,7 +691,8 @@
           "alt": "Lorem Ipsum",
           "dateresume": "04 de dezembro de 2002",
           "access": "projects/timeline/04_12_2002.html",
-          "href": "projects/project_01.html"
+          "href": "projects/project_01.html",
+          "class": "item"
         },
         {
           "datetime": "04/12/2005",
@@ -691,7 +701,8 @@
           "alt": "Lorem Ipsum",
           "dateresume": "04 de dezembro de 2005",
           "access": "projects/timeline/04_12_2005.html",
-          "href": "projects/project_01.html"
+          "href": "projects/project_01.html",
+          "class": "item"
         },
         {
           "datetime": "04/12/2007",
@@ -700,7 +711,8 @@
           "alt": "Lorem Ipsum",
           "dateresume": "04 de dezembro de 2007",
           "access": "projects/timeline/04_12_2007.html",
-          "href": "projects/project_01.html"
+          "href": "projects/project_01.html",
+          "class": "item"
         },
         {
           "datetime": "04/12/2008",
@@ -709,7 +721,8 @@
           "alt": "Lorem Ipsum",
           "dateresume": "04 de dezembro de 2008",
           "access": "projects/timeline/04_12_2008.html",
-          "href": "projects/project_01.html"
+          "href": "projects/project_01.html",
+          "class": "item"
         },
         {
           "datetime": "04/12/2009",
@@ -718,7 +731,8 @@
           "alt": "Lorem Ipsum",
           "dateresume": "04 de dezembro de 2009",
           "access": "projects/timeline/04_12_2009.html",
-          "href": "projects/project_01.html"
+          "href": "projects/project_01.html",
+          "class": "item"
         },
         {
           "datetime": "04/12/2011",
@@ -727,7 +741,8 @@
           "alt": "Lorem Ipsum",
           "dateresume": "04 de dezembro de 2011",
           "access": "projects/timeline/04_12_2011.html",
-          "href": "projects/project_01.html"
+          "href": "projects/project_01.html",
+          "class": "item"
         }       
       ]
     }
@@ -751,5 +766,59 @@
       "perc": "40",
       "item": "Lorem Ipsum"
     }    
+  ],
+
+  "skills":
+  [
+    {
+      "title": "Crexis Notes &amp; Skills",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod",
+      "boxes":
+      [
+        {
+          "icon": "fa-cloud",
+          "title": "Lorem Ipsum",
+          "description": "There are many variations of passages of Lor em Ipsum available, but the majority have suffe red alteration in some form, by injected clony humour or randomised words which don't look"
+        },
+        {
+          "icon": "fa-heart",
+          "title": "Lorem Ipsum",
+          "description": "There are many variations of passages of Lor em Ipsum available, but the majority have suffe red alteration in some form, by injected clony humour or randomised words which don't look"
+        },
+        {
+          "icon": "fa-cog",
+          "title": "Lorem Ipsum",
+          "description": "There are many variations of passages of Lor em Ipsum available, but the majority have suffe red alteration in some form, by injected clony humour or randomised words which don't look"
+        }        
+      ],
+      "itens":
+      [
+        {
+          "title": "Lorem Ipsum",
+          "description": "Lorem empor incididunt ut labore et dolore magna aliqua.",
+          "progress": 70
+        },
+        {
+          "title": "Lorem Ipsum",
+          "description": "Lorem empor incididunt ut labore et dolore magna aliqua.",
+          "progress": 55
+        },
+        {
+          "title": "Lorem Ipsum",
+          "description": "Lorem empor incididunt ut labore et dolore magna aliqua.",
+          "progress": 48
+        },
+        {
+          "title": "Lorem Ipsum",
+          "description": "Lorem empor incididunt ut labore et dolore magna aliqua.",
+          "progress": 50
+        },
+        {
+          "title": "Lorem Ipsum",
+          "description": "Lorem empor incididunt ut labore et dolore magna aliqua.",
+          "progress": 40
+        }        
+      ]
+    }
   ]
 }
